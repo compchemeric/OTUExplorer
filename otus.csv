@@ -1,0 +1,21 @@
+﻿Name der OTU;Subfamily;Name der OTU;Exp.Struktur;recommended name (long);alternative names;alternative names (long);Gene-names;Uniprot-name;OTU Domain AS;C;D;H;N
+OTUD1;OTUD;OTUD1;x;OTU domain-containing protein 1;DUBA-7;;DUBA7, OTDC1, OTUD1;Q5VV17;309-438;320;317;431;
+OTUD2;OTUD;OTUD2;x;Ubiquitin thioesterase OTU1;"YOD1, OTU1,  DUBA-8
+";HIV-1-induced protease 7 , TU domain-containing protein 2;YOD1, DuBA8,OTUD2;Q5VVQ6;149-274;160;157;267;
+OTUD3;OTUD;OTUD3;x;OTU domain-containing protein 3;;;OTUD3, KIAA0459;Q5T2D3;"	65-189";76;72;182;
+OTUD4;OTUD;OTUD4;;OTU domain-containing protein 4;;HIV-1-induced protein HIN-1;OTUD4, HIN-1, KIAA1046;Q01804;34-155;45;42;148;
+OTUD5;OTUD;OTUD5;x;OTU domain-containing protein 5;DUBA;Deubiquitinating enzyme A ;OTUD5;Q96G74;213-341;224;221;334;
+OTUD6A;OTUD;OTUD6A;;OTU domain-containing protein 6A;DUBA-2;;OTUD6A, DUBA2;Q7L8S5;141-275;152;149;268;
+OTUD6B;OTUD;OTUD6B;;Deubiquitinase OTUD6B;DUBA-5;OTU domain-containing protein 6B;OTUD6B, DUBA5;Q8N6M0;147-284;158;155;277;
+ALG13;OTUD;ALG13;;Putative bifunctional UDP-N-acetylglucosamine transferase and deubiquitinase ALG13;;;ALG13, CXorf45, GLT28D1;Q9NP73;231-352;242;239;345;
+OTUB1;Otubians;OTUB1;x;Ubiquitin thioesterase OTUB1;Otubain1 (hOTU1);Deubiquitinating enzyme OTUB1, Ubiquitin-specific-processing protease OTUB1, OTU domain-containing ubiquitin aldehyde-binding protein 1;OTUB1, OTB1, OTU1;Q96FW1;80-271;88;85;265;
+OTUB2;Otubians;OTUB2;x;Ubiquitin thioesterase OTUB2;Otubain-2;Deubiquitinating enzyme OTUB2, OTU domain-containing ubiquitin aldehyde-binding protein 2, Ubiquitin-specific-processing protease OTUB2;OTUB2, OTB2,OTU2;Q96DC9;40-231;51;-48;224;226
+A20;A20-like;A20;x;Tumor necrosis factor alpha-induced protein 3, TNF alpha-induced protein 3;;"OTU domain-containing protein 7C
+Putative DNA-binding protein A20 Zinc finger protein A20";TNFAIP3, OTUD7C;P21580;92-263;103;100;256;
+Cezanne;A20-like;Cezanne;x;OTU domain-containing protein 7B;OTUD7B;Cellular zinc finger anti-NF-kappa-B protein, Zinc finger A20 domain-containing protein 1, Zinc finger protein Cezanne ;OTUD7B, ZA20D1;Q6GQQ9;183-365;194;191;197;
+Cezanne2;A20-like;Cezanne2;;OTU domain-containing protein 7A;OTUD7A;Zinc finger protein Cezanne 2;OTUD7A, Cezanne2, OTUD7;Q8TE49;199-374;210;207;367;
+TRABID;A20-like;TRABID;x;Ubiquitin thioesterase ZRANB1;ZRANB1;TRAF-binding domain-containing protein, Zinc finger Ran-binding domain-containing protein 1;ZRANB1, TRABID;Q9UGI0;432-592;443;?;585;
+VCPIP1;A20-like;VCPIP1;;Deubiquitinating protein VCPIP1;;Valosin-containing protein p97/p47 complex-interacting protein 1, Valosin-containing protein p97/p47 complex-interacting protein p135, VCP/p47 complex-interacting 135-kDa protein;VCPIP1, VCIP135, KIAA1850;Q96JH7;"	208-362";219;216;354;
+OTULIN;OTULIN;OTULIN;x;Ubiquitin thioesterase otulin;GUMBY, FAM105B;Deubiquitinating enzyme otulin, Ubiquitin thioesterase Gumby,;OTULIN, FAM105B;Q96BN8;118-346;129;126;339;
+FAM105A;OTULIN;FAM105A;x;Inactive ubiquitin thioesterase OTULINL;OTULINL;;OTULINL, FAM105A;Q9NUU6;128-356;;;;
+;;;;;;;;;;;;;
